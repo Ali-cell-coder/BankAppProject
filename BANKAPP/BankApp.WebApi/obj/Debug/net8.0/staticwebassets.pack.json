@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alioz\\OneDrive\\Desktop\\BANKAPP (2)\\BANKAPP\\BankApp.WebApi\\wwwroot\\swagger\\index.html",
+      "PackagePath": "staticwebassets\\swagger\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BankApp.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BankApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BankApp.WebApi.props",
+      "PackagePath": "build\\BankApp.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BankApp.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\BankApp.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BankApp.WebApi.props",
+      "PackagePath": "buildTransitive\\BankApp.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

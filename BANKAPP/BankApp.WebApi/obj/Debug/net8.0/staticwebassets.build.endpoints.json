@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "swagger/index.6z5r0itade.html",
+      "AssetFile": "swagger/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/tBEbSYlyZuDehKmI/jduIl6LnYjc1y0tz6E7Q6k2CQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 23:07:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6z5r0itade"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/tBEbSYlyZuDehKmI/jduIl6LnYjc1y0tz6E7Q6k2CQ="
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/index.html"
+        }
+      ]
+    },
+    {
+      "Route": "swagger/index.html",
+      "AssetFile": "swagger/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/tBEbSYlyZuDehKmI/jduIl6LnYjc1y0tz6E7Q6k2CQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 23:07:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/tBEbSYlyZuDehKmI/jduIl6LnYjc1y0tz6E7Q6k2CQ="
+        }
+      ]
+    }
+  ]
+}

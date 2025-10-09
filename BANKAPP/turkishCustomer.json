@@ -1,0 +1,12 @@
+{
+  "firstName": "Ahmet",
+  "lastName": "Yilmaz",
+  "identityNumber": "12345678901",
+  "dateOfBirth": "1987-05-15",
+  "nationality": "Turkish",
+  "occupation": "Civil Engineer",
+  "monthlyIncome": 25000,
+  "phoneNumber": "+905321234567",
+  "email": "ahmet.yilmaz@email.com",
+  "address": "Ataturk Caddesi No: 45, Kadikoy, Istanbul, Turkey"
+} 

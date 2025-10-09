@@ -1,0 +1,45 @@
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\bin\Debug\net8.0\BankApp.Domain.deps.json
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\bin\Debug\net8.0\BankApp.Domain.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\bin\Debug\net8.0\BankApp.Domain.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\bin\Debug\net8.0\BankApp.Core.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\bin\Debug\net8.0\BankApp.Core.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.csproj.AssemblyReference.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.AssemblyInfoInputs.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.AssemblyInfo.cs
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp..B50F6DF5.Up2Date
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\obj\Debug\net8.0\refint\BankApp.Domain.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Domain\obj\Debug\net8.0\ref\BankApp.Domain.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\bin\Debug\net8.0\BankApp.Domain.deps.json
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\bin\Debug\net8.0\BankApp.Domain.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\bin\Debug\net8.0\BankApp.Domain.pdb
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\bin\Debug\net8.0\BankApp.Core.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\bin\Debug\net8.0\BankApp.Core.pdb
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.AssemblyInfo.cs
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp..B50F6DF5.Up2Date
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\obj\Debug\net8.0\refint\BankApp.Domain.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.pdb
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Domain\obj\Debug\net8.0\ref\BankApp.Domain.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\BANKAPP\BankApp.Domain\bin\Debug\net8.0\BankApp.Domain.deps.json
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Domain\bin\Debug\net8.0\BankApp.Domain.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Domain\bin\Debug\net8.0\BankApp.Domain.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Domain\bin\Debug\net8.0\BankApp.Core.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Domain\bin\Debug\net8.0\BankApp.Core.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.csproj.AssemblyReference.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.AssemblyInfoInputs.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.AssemblyInfo.cs
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\BANKAPP\BankApp.Domain\obj\Debug\net8.0\BankApp..B50F6DF5.Up2Date
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Domain\obj\Debug\net8.0\refint\BankApp.Domain.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Domain\obj\Debug\net8.0\BankApp.Domain.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\BANKAPP\BankApp.Domain\obj\Debug\net8.0\ref\BankApp.Domain.dll

@@ -1,0 +1,65 @@
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\appsettings.json
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Persistence.deps.json
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Persistence.runtimeconfig.json
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Persistence.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Persistence.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Application.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Core.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Domain.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Application.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Domain.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Core.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.AssemblyInfo.cs
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp..0FD3D951.Up2Date
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\refint\BankApp.Persistence.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.genruntimeconfig.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\ref\BankApp.Persistence.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\appsettings.json
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Persistence.deps.json
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Persistence.runtimeconfig.json
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Persistence.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Persistence.pdb
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Application.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Core.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Domain.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Application.pdb
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Domain.pdb
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Core.pdb
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.AssemblyInfo.cs
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp..0FD3D951.Up2Date
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\refint\BankApp.Persistence.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.pdb
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.genruntimeconfig.cache
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\ref\BankApp.Persistence.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Persistence.deps.json
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\BANKAPP\BankApp.Persistence\bin\Debug\net8.0\BankApp.Persistence.runtimeconfig.json
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\bin\Debug\net8.0\BankApp.Persistence.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\bin\Debug\net8.0\BankApp.Persistence.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\bin\Debug\net8.0\BankApp.Application.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\bin\Debug\net8.0\BankApp.Core.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\bin\Debug\net8.0\BankApp.Domain.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\bin\Debug\net8.0\BankApp.Domain.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\bin\Debug\net8.0\BankApp.Core.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\bin\Debug\net8.0\BankApp.Application.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.AssemblyInfo.cs
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp..0FD3D951.Up2Date
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\obj\Debug\net8.0\refint\BankApp.Persistence.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\BankApp.Persistence.genruntimeconfig.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\BANKAPP\BankApp.Persistence\obj\Debug\net8.0\ref\BankApp.Persistence.dll

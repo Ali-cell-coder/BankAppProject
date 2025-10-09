@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DataBank API Portal</title>
+  <link rel="stylesheet" href="https://unpkg.com/swagger-ui-dist/swagger-ui.css" />
+  <style>
+    body {
+      margin: 0;
+      background-color: #f4f6fb;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .banner-container {
+      background-color: #004080;
+      text-align: center;
+      padding: 0;
+    }
+
+    .banner-container img {
+      width: 100%;
+      max-width: 600px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+    
+    .swagger-ui {
+      margin-top: 20px;
+      padding: 0 40px;
+    }
+
+    .topbar { display: none; }
+
+    .swagger-ui .info hgroup h2 {
+      color: #004080;
+      font-size: 24px;
+    }
+
+    .swagger-ui .info p {
+      font-size: 15px;
+      color: #555;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      font-size: 14px;
+      color: #666;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Sadece yatay logo (banner) -->
+<div class="banner-container">
+  <img src="/images/databank-logo.png" alt="DataBank Banner" />
+</div>
+
+<div id="swagger-ui"></div>
+
+<footer>
+  &copy; 2025 DataBank API Portal — Tüm hakları saklıdır.
+</footer>
+
+
+<script src="https://unpkg.com/swagger-ui-dist/swagger-ui-bundle.js"></script>
+<script>
+  window.onload = () => {
+    SwaggerUIBundle({
+      url: "/swagger/v1/swagger.json",
+      dom_id: '#swagger-ui',
+      presets: [
+        SwaggerUIBundle.presets.apis,
+        SwaggerUIBundle.SwaggerUIStandalonePreset
+      ],
+      layout: "BaseLayout"
+    });
+  };
+</script>
+</body>
+</html>

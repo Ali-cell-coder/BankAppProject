@@ -1,0 +1,36 @@
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Core\bin\Debug\net8.0\BankApp.Core.deps.json
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Core\bin\Debug\net8.0\BankApp.Core.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Core\bin\Debug\net8.0\BankApp.Core.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.csproj.AssemblyReference.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.AssemblyInfoInputs.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.AssemblyInfo.cs
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Core\obj\Debug\net8.0\refint\BankApp.Core.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP\BankApp.Core\obj\Debug\net8.0\ref\BankApp.Core.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Core\bin\Debug\net8.0\BankApp.Core.deps.json
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Core\bin\Debug\net8.0\BankApp.Core.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Core\bin\Debug\net8.0\BankApp.Core.pdb
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.AssemblyInfo.cs
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Core\obj\Debug\net8.0\refint\BankApp.Core.dll
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Core\obj\Debug\net8.0\BankApp.Core.pdb
+C:\Users\berka\Desktop\datamödev\BANKAPP (2)\BANKAPP\BankApp.Core\obj\Debug\net8.0\ref\BankApp.Core.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Core\bin\Debug\net8.0\BankApp.Core.deps.json
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Core\bin\Debug\net8.0\BankApp.Core.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Core\bin\Debug\net8.0\BankApp.Core.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Core\obj\Debug\net8.0\BankApp.Core.csproj.AssemblyReference.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Core\obj\Debug\net8.0\BankApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Core\obj\Debug\net8.0\BankApp.Core.AssemblyInfoInputs.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Core\obj\Debug\net8.0\BankApp.Core.AssemblyInfo.cs
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Core\obj\Debug\net8.0\BankApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Core\obj\Debug\net8.0\BankApp.Core.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Core\obj\Debug\net8.0\refint\BankApp.Core.dll
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Core\obj\Debug\net8.0\BankApp.Core.pdb
+C:\Users\alioz\OneDrive\Desktop\BANKAPP (2)\Bankapp\BankApp.Core\obj\Debug\net8.0\ref\BankApp.Core.dll

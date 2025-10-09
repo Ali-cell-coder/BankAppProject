@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "wx4cdPVZ+ZqLPPwLYXU7D2qXhD+T08cIeAvBdoPebHA=",
+  "Source": "BankApp.WebApi",
+  "BasePath": "_content/BankApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankApp.WebApi\\wwwroot",
+      "Source": "BankApp.WebApi",
+      "ContentRoot": "C:\\Users\\alioz\\OneDrive\\Desktop\\BANKAPP (2)\\BANKAPP\\BankApp.WebApi\\wwwroot\\",
+      "BasePath": "_content/BankApp.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\alioz\\OneDrive\\Desktop\\BANKAPP (2)\\BANKAPP\\BankApp.WebApi\\wwwroot\\swagger\\index.html",
+      "SourceId": "BankApp.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alioz\\OneDrive\\Desktop\\BANKAPP (2)\\BANKAPP\\BankApp.WebApi\\wwwroot\\",
+      "BasePath": "_content/BankApp.WebApi",
+      "RelativePath": "swagger/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6z5r0itade",
+      "Integrity": "/tBEbSYlyZuDehKmI/jduIl6LnYjc1y0tz6E7Q6k2CQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "swagger/index.6z5r0itade.html",
+      "AssetFile": "C:\\Users\\alioz\\OneDrive\\Desktop\\BANKAPP (2)\\BANKAPP\\BankApp.WebApi\\wwwroot\\swagger\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/tBEbSYlyZuDehKmI/jduIl6LnYjc1y0tz6E7Q6k2CQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 23:07:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6z5r0itade"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/tBEbSYlyZuDehKmI/jduIl6LnYjc1y0tz6E7Q6k2CQ="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/index.html",
+      "AssetFile": "C:\\Users\\alioz\\OneDrive\\Desktop\\BANKAPP (2)\\BANKAPP\\BankApp.WebApi\\wwwroot\\swagger\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/tBEbSYlyZuDehKmI/jduIl6LnYjc1y0tz6E7Q6k2CQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 23:07:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/tBEbSYlyZuDehKmI/jduIl6LnYjc1y0tz6E7Q6k2CQ="
+        }
+      ]
+    }
+  ]
+}
